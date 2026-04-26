@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+
+}
+header{
+    background-color: brown;
+    font-weight: 100;
+}
+main{
+    font-size: medium;
+}
+p{
+color: purple;
+
+}
+ol{
+    color: purple;
+    font-size: large;
+}
+footer{
+    color: blue;
+}
